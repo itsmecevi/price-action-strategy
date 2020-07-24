@@ -54,7 +54,7 @@
 
 
 
-## Pin bar Inside bar Combo, Inside bar combo
+## Pin bar Inside bar Combo
 
 * Pin bar adalah pola cs reversal
  * Inside bar adalah pola konsolidasi
