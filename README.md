@@ -44,33 +44,6 @@
 
 
   
- ## Pin bar Inside bar Combo, Inside bar combo
- 
- * Pin bar adalah pola cs reversal
- * Inside bar adalah pola konsolidasi
- * Kombinasi dari 2 cs tersebut merupakan pola yang paling mempunyai kemungkinan berhasil tertinggi di dalam price action trading
- * Ada 2 jenis kombinasi, tetapi yang menentukan arah adalah pin bar itu sendiri
-   * Pin bar + Inside bar
-   * Inside bar + Pin bar
-   
-![pa7](https://user-images.githubusercontent.com/27078712/88395896-f5055f00-cdeb-11ea-979b-990d03af28e7.PNG)
-![pa8](https://user-images.githubusercontent.com/27078712/88395911-fafb4000-cdeb-11ea-9e54-7c529ed81437.PNG)
-![pa9](https://user-images.githubusercontent.com/27078712/88395927-ffbff400-cdeb-11ea-8408-08d47e8f168e.PNG)
-
-* Inside bar combo adalah pin bar yang tidak terlalu jelas seperti doji, jika ada inside bar combo, itu merupakan konfirmator untuk SR trading juga
-
-![pa10](https://user-images.githubusercontent.com/27078712/88397542-44e52580-cdee-11ea-98a4-a281acc42a96.PNG)
-![pa11](https://user-images.githubusercontent.com/27078712/88397585-57f7f580-cdee-11ea-9843-08e1b14c094b.PNG)
-
-* Tips Pinbar Inside Bar combo, Inside bar Combo
-  * Selalu lihat adanya pin bar yang disertai dengan inside bar. Entry ketika di inside bar, karena itu merupakan kesempatan terakhir sebelum reversal
-  * Keseringannya, gunakan stop loss di inside bar, atau beberapa point di bawah atau atasnya
-  * Inside pin bar combo sering terjadi di market tren yang kuat
-  * Iside bar+ pin bar bagus untuk TF daily, sedangkan pin bar+inside bar untuk daily dan tf4
-
-
- 
- 
  
 
 
