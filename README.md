@@ -154,7 +154,27 @@ Tips Inside Bar Trading:
 
 ## Pin Bar Trading
 
+* Pinbar berbentuk palu yang mempunyai ekor panjang (shadow). Ekor yang panjang menandakan rejeksi terhadap harga yang berlawanan arah
+* Pinbar untuk continuation tidak perlu memperhatikan terlalu detail tentang SR level dan tidak terlalu memperhatikan konfirmasi harga harus menyentuh 2x titik tertentu
+* Pinbar untuk reversal harus memperhatikan level SR dan konfirmasi sekali lagi  menyentuh SR
 
+![pai45](https://user-images.githubusercontent.com/27078712/88466678-09834d80-cef9-11ea-8941-3b81341786e8.PNG)
+![pai46](https://user-images.githubusercontent.com/27078712/88466679-0ab47a80-cef9-11ea-9210-571960358af1.PNG)
+![pai47](https://user-images.githubusercontent.com/27078712/88466680-0b4d1100-cef9-11ea-83d7-155a0e440de1.PNG)
+![pai48](https://user-images.githubusercontent.com/27078712/88466681-0b4d1100-cef9-11ea-846f-fe979569e250.PNG)
+![pai49](https://user-images.githubusercontent.com/27078712/88466682-0be5a780-cef9-11ea-92a0-fdbe37027068.PNG)
+![pai50](https://user-images.githubusercontent.com/27078712/88466683-0c7e3e00-cef9-11ea-98d4-9387eabc655f.PNG)
+![pai51](https://user-images.githubusercontent.com/27078712/88466684-0d16d480-cef9-11ea-9ec7-ab0108803a1c.PNG)
+
+
+
+* Tips Pinbar Trading:
+
+  * Sebagai pemula, trading dengan pinbar daily chart lebih relatin mudah dalam pasar tren continuation, sedangkan untuk sinyal reversal agak sedikit butuh latihan dan pengalaman
+  * Pinbar dapat dijadikan acuan untuk memprediksi harga, biasanya pinbar terletak di titik low dan titik high
+  * Tidak semua pinbar bisa dijadikan acuan untuk OP yang kuat. Tunggu konfirmasi dari garis SR dan atau minimal di area level SR
+  * Sebagai trader pemula, coba perhatikan pola pinbar pada daily tf adan tf4
+  * Semakin panjang ekor, semakin kuat pergerakan harga untuk reversal, dengan syarat sudah melalui konfirmasi 2x ke level SR
 
 
 
