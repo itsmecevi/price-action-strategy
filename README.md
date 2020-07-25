@@ -133,11 +133,11 @@ Tips Inside Bar Trading:
 * Kita akan melihat pola inside bar lebih dari 1, bisa 2 sampai 3, itu tidak masalah, karena artinya terjadi konsolidasi market yang lama, yang semakin lama kemungkinan pergerakan besar akan terjadi
 
 
-# False Breakout Trading
+## False Breakout Trading
 
 
 
-# Pin Bar Trading
+## Pin Bar Trading
 
 
 
