@@ -92,10 +92,21 @@
 ![pa12](https://user-images.githubusercontent.com/27078712/88447523-6da50380-ce5e-11ea-8195-aa5e0d2a4545.PNG)
 
 * Fakey cs trading:
-  *
-  *
-  * 
-  *
+  * Fakey cs bisa digunakan di market yang trending, sideway, bahkan saat reversal
+  * Karena banyak sekali false breakout di market, jadi memahami pola ini sangat berguna sekali
+ 
+ 
+![pa13](https://user-images.githubusercontent.com/27078712/88448986-7a7d2380-ce6d-11ea-8a47-8eaabe31cf51.PNG)
+![pa14](https://user-images.githubusercontent.com/27078712/88448987-7bae5080-ce6d-11ea-99c4-304d92b74432.PNG)
+![pa15](https://user-images.githubusercontent.com/27078712/88448988-7c46e700-ce6d-11ea-9c99-adb655548f50.PNG)
+![pa16](https://user-images.githubusercontent.com/27078712/88448990-7cdf7d80-ce6d-11ea-977d-7d0464efb74a.PNG)
+![pa17](https://user-images.githubusercontent.com/27078712/88448992-7cdf7d80-ce6d-11ea-90b7-9c24c430a0a9.PNG)
+
+
+* Tips Fakey trading:
+
+  * Perlu diingat jika ada inside bar pattern, setelahnya merupakan false breakout, karena pola tersebut adalah fakey cs
+  * Untuk akurasi tinggi, tf daily lebih disarankan, walaupun memang tf1 atau tf4 ketika sudah terbiasa juga bisa
   
 
 
