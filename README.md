@@ -110,6 +110,37 @@
   * Tunggu dl cs selanjutnya, jika ada inside bar cs yang dipadukan dengan pinbar, karena kemungkinan akan false breakout
 
 
+## Inside Bar Trading
+
+* Inside bar adalah 2 CS yang mempunyai Mother CS dan Inside Bar CS
+* Inside bar mengindikasikan konsolidasi pada market
+* Biasanya terlihat pada tf 30 menit dan 1 jam
+* Jika tidak berada pada level SR, maka pola inside bar merupakan continuation pattern, sedangkan dekat SR merupakan pola reversal yang kuat dengan syarat menunggu konfirmasi di titik SR tersebut
+
+
+![pai36](https://user-images.githubusercontent.com/27078712/88462071-e3e34d80-ced2-11ea-82bc-af3f58a18379.PNG)
+![pai37](https://user-images.githubusercontent.com/27078712/88462075-e5147a80-ced2-11ea-909a-66cc5aab1358.PNG)
+![pai38](https://user-images.githubusercontent.com/27078712/88462076-e5ad1100-ced2-11ea-853a-2de8eafd563b.PNG)
+![pai39](https://user-images.githubusercontent.com/27078712/88462077-e645a780-ced2-11ea-9d06-64090de25423.PNG)
+![pai40](https://user-images.githubusercontent.com/27078712/88462079-e645a780-ced2-11ea-9ca3-4186b2f2b99c.PNG)
+
+
+
+Tips Inside Bar Trading:
+
+* Sebagai trader pemula, akah lebih mudah mengenali inside bar dalam range harian sebagai pola continuation, sedangkan untuk pola reversal di ares SR, akan lebih sulit dan butuh jam terbang
+* Inside bar optimum di tf daily, karena kurang dari ini terlalu banyak noise (false breakout)
+* Kita akan melihat pola inside bar lebih dari 1, bisa 2 sampai 3, itu tidak masalah, karena artinya terjadi konsolidasi market yang lama, yang semakin lama kemungkinan pergerakan besar akan terjadi
+
+
+# False Breakout Trading
+
+
+
+# Pin Bar Trading
+
+
+
 
 You can use the [editor on GitHub](https://github.com/itsmecevi/price-action-strategy/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
