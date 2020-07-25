@@ -135,6 +135,21 @@ Tips Inside Bar Trading:
 
 ## False Breakout Trading
 
+* Adalah sinyal breakout continuation yang palsu atau bisa dikatakan juga reversal yang kuat ketika berhadapan dengan SR level
+* Salah satu syarat konfirmasi dalam PAT adalah menunggu konfirmasi untuk harga balik kembali di titik SR
+
+![pai41](https://user-images.githubusercontent.com/27078712/88466485-e192ea80-cef6-11ea-98e7-4cd2aeb50624.PNG)
+![pai42](https://user-images.githubusercontent.com/27078712/88466489-e8b9f880-cef6-11ea-8243-68c259c6b4f7.PNG)
+![pai43](https://user-images.githubusercontent.com/27078712/88466491-e9eb2580-cef6-11ea-8969-a9934bb8f31f.PNG)
+![pai44](https://user-images.githubusercontent.com/27078712/88466493-e9eb2580-cef6-11ea-9a9c-12aa14b3f3bc.PNG)
+
+* Tips False Breakout Trading:
+
+  * False breakout trading terjadi pasar yang tren dan juga sideway
+  * Trading dengan melawan tren sangat sulit, tapi cara terbaik adalah menunggu false breakout untuk melawan tren pada saat koreksi
+  * False breakout menjadi sebuah jendela awal pembuka dari pemula menjadi profesional
+
+
 
 
 ## Pin Bar Trading
