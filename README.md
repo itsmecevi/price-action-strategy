@@ -107,7 +107,7 @@
 
   * Perlu diingat jika ada inside bar pattern, setelahnya merupakan false breakout, karena pola tersebut adalah fakey cs
   * Untuk akurasi tinggi, tf daily lebih disarankan, walaupun memang tf1 atau tf4 ketika sudah terbiasa juga bisa
-  
+  * Tunggu dl cs selanjutnya, jika ada inside bar cs yang dipadukan dengan pinbar, karena kemungkinan akan false breakout
 
 
 
