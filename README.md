@@ -80,6 +80,26 @@
 
 
 
+## Fakey CS Trading 
+
+
+* Fakey cs adalah sebuah cs breakout yang salah dari inside bar
+* Fakey cs selalu diawali oleh inside bar, pertama-pertama breakout, lalu dengan cepat reversal
+* Inside Bar + False-Breakout = Fakey
+* Fakey cs bisa mempunyai pinbar ataupun tidak
+* Di dalam fakey cs, selalu diawali dengan inside bar, lalu selanjutnya muncul false breakout, dengan atau tanpa pin bar
+
+![pa12](https://user-images.githubusercontent.com/27078712/88447523-6da50380-ce5e-11ea-8195-aa5e0d2a4545.PNG)
+
+* Fakey cs trading:
+  *
+  *
+  * 
+  *
+  
+
+
+
 You can use the [editor on GitHub](https://github.com/itsmecevi/price-action-strategy/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
